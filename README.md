@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Orlando Leyva and I'm studying software. 👋
 
 <!--
 **OrlandoLeyvaFon/OrlandoLeyvaFon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
